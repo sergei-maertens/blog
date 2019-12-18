@@ -1,6 +1,6 @@
 ---
 title: "Notes from community call - 21 November 2019"
-date: 2019-12-18
+date: 2019-12-19
 author: Jan Ainali
 type: blogpost
 excerpt: Recent news roundup from the Foundation for Public Code.
