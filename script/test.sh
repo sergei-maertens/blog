@@ -4,7 +4,7 @@ set -e # halt script on error
 # Build the site
 bundle exec jekyll build
 
-# Check for broken links and missing alt tags: 
+# Check for broken links and missing alt tags:
 # jekyll does not require extentions like HTML
 # ignore edit links to GitHub as they might not exist yet and
 # set an extra long timout for test-servers with poor connectivity
